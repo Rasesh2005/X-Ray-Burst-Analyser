@@ -9,8 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.6.0",
-    "@clerk/themes": "^2.1.30",
+    "@kinde-oss/kinde-auth-nextjs": "^2.3.8",
     "next": "14.2.13",
     "react": "^18",
     "react-dom": "^18"
